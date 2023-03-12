@@ -54,6 +54,7 @@ export const ProductsArea = styled.div`
     background: transparent;
     border: none;
     color: ${(props) => props.theme['red-500']};
+    cursor: pointer;
    }
 
     img {
