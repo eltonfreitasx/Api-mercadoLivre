@@ -1,14 +1,25 @@
 # Api-mercadoLivre
 
-### 💻 A  Api-mercadoLivre made with React JS, Hooks, consuming the Api-mercadoLivre.
+### 💻 A  Api-mercadoLivre made with React JS, Hooks, consuming the Api-mercadoLivre. <hr/>
+#### Os produtos mostrados em tela, podemos ver os valores e adiciona-los no carrinho de compras e ver o valor total ao final. <br/><br/>
 
 ### Preview
 
-![pokedex](https://user-images.githubusercontent.com/76684471/167329535-8acb4915-ca6c-49bc-b366-f091899555c6.png)
+<img src="./src/assets/readme/apimercado.jpg"/>
+<br/> <br/>
+
+## Carrinho com as compras
+
+<img src="./src/assets/readme/carrinho.jpg"/>
+<br/> <br/>
 
 ### 🛠️ Technologies 
-React <br/>
+React with type script<br/>
 Api-mercadoLivre
+React-router-dom<br/>
+React-icons<br/>
+Styled-components<br/>
+
 
 ## 🧲 Requirements 
 Git<br/>
@@ -18,7 +29,7 @@ NPM
 ## Installation
 
 ```
-$ git clone https://github.com/eltonfreitasx/Pokedex.git
+$ git clone https://github.com/eltonfreitasx/Api-mercadoLivre.git
 
 $ npm install
 
@@ -26,3 +37,4 @@ $ npm start<br/>
 ```
 
 The application will open in the browser on http://localhost:3000
+
