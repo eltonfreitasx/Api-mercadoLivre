@@ -14,7 +14,7 @@ export function Cart() {
         setItem("carrinhoYT", arrFilter)
     }
 
-    const subTotal = data.reduce((acc,cur) => acc + cur.price, 0)
+    const subTotal = Math.ceil(data.reduce((acc,cur) => acc + cur.price, 0))
     return (
         <>
             <Header>
