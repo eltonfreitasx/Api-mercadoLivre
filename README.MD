@@ -36,5 +36,5 @@ $ npm install
 $ npm start<br/>
 ```
 
-The application will open in the browser on http://localhost:3000
+The application will open in the browser on http://localhost:5173/
 
